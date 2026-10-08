@@ -32,3 +32,4 @@ bun.lockb
 
 # typescript
 *.tsbuildinfo
+.env*
